@@ -10,13 +10,13 @@ namespace GeneralizedRockPaperScissors
         {
             if (args.Length < 3 || args.Length % 2 == 0)
             {
-                Console.WriteLine("Invalid options");
+                Console.WriteLine("Invalid options: enter 3 or more parameters");
                 return false;
             }
 
             if (args.Length != args.Distinct().Count())
             {
-                Console.WriteLine("Invalid options");
+                Console.WriteLine("Invalid options: the parameters should not be repeated");
                 return false;
             }
 
@@ -25,7 +25,11 @@ namespace GeneralizedRockPaperScissors
 
         static void Main(string[] args)
         {
-            args = new[] { "qwe", "rty", "uio", "asd", "zxc" };
+            //args = new[] { "qwe", "rty", "uio" };                                // Starting with 3 parameters
+            //args = new[] { "qwe", "rty", "uio", "asd", "zxc", "ghj", "fgh" };    // Starting with 7 parameters
+            //args = new[] { "qwe", "rty", "qwe" };                                // Running with duplicate parameters
+            //args = new[] { "qwe" };                                              // Starting with 3 parameters
+            args = new[] { "qwe", "rty", "uio", "asd", "zxc" };                  // Starting with 5 parameters
             if (!CheckArgs(args))
             {
                 return;

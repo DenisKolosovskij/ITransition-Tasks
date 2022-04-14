@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YQtQy7MODZmVLJrNVAtv0dJxVFx9ll5QO/k0ZPEcpTW470zV2IRGAP5HEdY3XP75JJHpJype9Hqt8Xglt8dKRQ==",
+  "dgSpecHash": "oHm1UOyNZVbeKozPJr1LltPJ+5PCdag2mmUar9ULenP+qLOS4TC7av0x6ps1nk+OrOp80d2PaQHqTITa/JHWsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\denko\\Desktop\\ITransition\\Task_3\\Task_3\\Task_3.csproj",
+  "projectFilePath": "D:\\GitHub\\ITransition-Tasks\\Task_3\\Task_3\\Task_3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\denko\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
     "C:\\Users\\denko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

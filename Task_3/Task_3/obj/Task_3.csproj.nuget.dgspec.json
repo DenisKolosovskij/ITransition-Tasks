@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denko\\Desktop\\ITransition\\Task_3\\Task_3\\Task_3.csproj": {}
+    "D:\\GitHub\\ITransition-Tasks\\Task_3\\Task_3\\Task_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denko\\Desktop\\ITransition\\Task_3\\Task_3\\Task_3.csproj": {
+    "D:\\GitHub\\ITransition-Tasks\\Task_3\\Task_3\\Task_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denko\\Desktop\\ITransition\\Task_3\\Task_3\\Task_3.csproj",
+        "projectUniqueName": "D:\\GitHub\\ITransition-Tasks\\Task_3\\Task_3\\Task_3.csproj",
         "projectName": "Task_3",
-        "projectPath": "C:\\Users\\denko\\Desktop\\ITransition\\Task_3\\Task_3\\Task_3.csproj",
+        "projectPath": "D:\\GitHub\\ITransition-Tasks\\Task_3\\Task_3\\Task_3.csproj",
         "packagesPath": "C:\\Users\\denko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denko\\Desktop\\ITransition\\Task_3\\Task_3\\obj\\",
+        "outputPath": "D:\\GitHub\\ITransition-Tasks\\Task_3\\Task_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\denko\\AppData\\Roaming\\NuGet\\NuGet.Config",
